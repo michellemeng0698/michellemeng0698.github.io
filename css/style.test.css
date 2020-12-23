@@ -333,12 +333,12 @@ SIDEBAR + RIGHT COLUMN
   z-index: 0;
   padding: 0 1.7em 5% 0em;
 }
-/* @media screen and (min-width: 992px) {
+@media screen and (min-width: 992px) {
   .sidebar-image {
-    padding-top: 20px;
-    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 18px;
   }
-} */
+}
 .sidebar-heading {
   font-size: 18px;
   text-transform: uppercase;
