@@ -317,7 +317,7 @@ SIDEBAR + RIGHT COLUMN
 =====================
 */
 #sidebar {
-  padding-top: 40px;
+  padding-top: 10px;
 }
 .sidebar-content {
     z-index: 0;
