@@ -335,7 +335,6 @@ SIDEBAR + RIGHT COLUMN
 }
 @media screen and (min-width: 992px) {
   .sidebar-image {
-    padding-left: 30px;
     padding-right: 18px;
   }
 }
@@ -1620,12 +1619,13 @@ STYLE SWITCHER FOR DEMO
   border-radius: 0;
 }
 /* scaffolding */
+/* top level color webpage color */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
-  background-color: #f4f4f4;
+  background-color: #ffffff;
 }
 a {
   color: #9055a2;
