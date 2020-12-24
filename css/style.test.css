@@ -370,8 +370,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-menu {
   list-style-type: none;
-  padding-left: 20px;
-  margin-bottom: 40px;
+  padding-left: 2%;
 }
 .sidebar-menu li {
   margin-bottom: 5px;
