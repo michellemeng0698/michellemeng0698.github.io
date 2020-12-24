@@ -333,13 +333,18 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .sidebar-content {
-    z-index: 0;
-    padding: 2em 1.7em 0 0em;
+    padding-top: 7%;
+    position: static;
+    width: auto;
+    text-align: center;
+    /* padding: 2em 1.7em 0 0em; */
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
-    padding-left: 30px;
-    padding-right: 18px;
+    position: static;
+    width: 75%;
+    margin: auto;
+    text-align: center;
   }
 }
 .sidebar-heading {
