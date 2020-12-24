@@ -317,24 +317,28 @@ SIDEBAR + RIGHT COLUMN
 =====================
 */
 #sidebar {
-  padding-top: 32px;
+  padding-top: 38px;
+}
+.sidebar-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media screen and (min-width: 992px) {
+  .sidebar-image {
+    /* padding-right: 18px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 .sidebar-content {
     z-index: 0;
-    padding: 0 1.7em 0 0em;
+    padding: 2em 1.7em 0 0em;
 }
 @media screen and (min-width: 992px) {
   .sidebar-content {
     padding-left: 30px;
-    padding-right: 18px;
-  }
-}
-.sidebar-image {
-  z-index: 0;
-  padding: 0 1.7em 5% 0em;
-}
-@media screen and (min-width: 992px) {
-  .sidebar-image {
     padding-right: 18px;
   }
 }
