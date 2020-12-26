@@ -137,7 +137,7 @@ button i.fa {
 .btn-ghost {
   color: #cfc0cf;
   background-color: transparent;
-  border-color: #cfc0cf;
+  border-color: #ffffff;
 }
 .btn-ghost:hover,
 .btn-ghost:focus,
@@ -464,7 +464,7 @@ SIDEBAR + RIGHT COLUMN
   color: #cfc0cf;
 }
 .small-navbar {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .small-navbar:before,
 .small-navbar:after {
@@ -477,6 +477,7 @@ SIDEBAR + RIGHT COLUMN
 .small-navbar-heading {
   font-family: 'gaegubold';
   float: right;
+  padding-top: 5px;
   font-size: 25px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
@@ -1750,12 +1751,15 @@ hr {
 }
 /* buttons  */
 .btn {
-  font-weight: 400;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
-  padding: 6px 12px;
-  font-size: 16px;
+  /* font-weight: 400; */
+  font-family: 'gaeguregular';
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font-size: 30px;
   line-height: 1.55;
-  border-radius: 0;
+  position: absolute;
+  text-align: center;
 }
 .btn-primary {
   color: #ffffff;
