@@ -407,7 +407,8 @@ SIDEBAR + RIGHT COLUMN
 }
 .grid {
   padding-top: 5px;
-  overflow-y: hidden;
+  /* margin-top: 20px; */
+  /* overflow-y: hidden; */
 }
 .content-column-content {
   padding-left: 20px;
@@ -846,6 +847,7 @@ a:active {
 .box-masonry {
   background: #fff;
   margin-bottom: 30px;
+  /* margin-top: 10px; - makes tilt animation cleaner*/
   position: relative;
   /* box-shadow: 0 0 5px #ccc; */
   -webkit-transition: all 0.2s ease-out;
