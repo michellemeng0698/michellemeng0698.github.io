@@ -480,7 +480,7 @@
 });
 
 const zoomDefault = mediumZoom('#zoom-default')
-const zoomMargin = mediumZoom('#zoom-margin', { margin: 24 })
+const zoomMargin = mediumZoom('#zoom-margin', { margin: 12 })
 const zoomBackground = mediumZoom('#zoom-background', { background: '#212530' })
 const zoomScrollOffset = mediumZoom('#zoom-scrollOffset', {
   scrollOffset: 0,
