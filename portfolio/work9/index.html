@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head><meta charset="utf-8">
+<head><meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>Michelle Meng&#39;s Portfolio</title>
 <meta name="description" content="Michelle Meng Creative Portfolio">
@@ -10,6 +10,11 @@
 <link rel="stylesheet" href="https://mimeng.art/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://mimeng.art/css/owl.carousel.css">
 <link rel="stylesheet" href="https://mimeng.art/css/owl.theme.css">
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+
 
 
   <link href="https://mimeng.art/css/style.test.css" rel="stylesheet" id="theme-stylesheet">
@@ -28,7 +33,6 @@
 <link rel="shortcut icon" href="https://mimeng.art/img/favicon.png">
 
 
-<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 </head>
 <body>
   <div id="all">
@@ -130,7 +134,22 @@
 <script src="https://mimeng.art/js/owl.carousel.min.js"></script>
 <script src="https://mimeng.art/js/front.js"></script>
 <script src="https://mimeng.art/js/medium-zoom.js"></script>
-<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script type="text/javascript" src="https://mimeng.art/js/slick.js"></script>
+<script type="text/javascript">
+  $('.slick-carousel-vertical').slick({
+    infinite: true,
+    slidesToShow: 1, 
+    slidesToScroll: 1,
+  });
+  $('.slick-carousel-horizontal').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1, 
+  });
+  $(window).resize(function(){
+    $('.carousel')[0].slick.refresh();
+  });
+</script>
 
 
 

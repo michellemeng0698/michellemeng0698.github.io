@@ -409,7 +409,7 @@ SIDEBAR + RIGHT COLUMN
   padding-top: 40px;
 }
 .content-column.white-background {
-  background: #fff;
+  background: rgb(255, 255, 255);
   min-height: 100vh;
 }
 .grid {
@@ -2211,18 +2211,19 @@ a.list-group-item.active > .badge,
   margin-left: 3px;
 }
 
-/* Slick Carousel */
-.slick-carousel {
-  margin: 0 auto;
-  width: 1000px;
+/* Defines the width of the carousel and centers it on the page */
+.slick-carousel-vertical {
+  /* max-width: 100%; */
+  /* width: 800px; */
+  margin: auto;
+  max-width: 60%;
+  height: auto;
 }
 
-/* The width of each slide */
-.slick-slide {
-  width: 350px;
-}
-
-/* Color of the arrows */
-.slick-next::before, .slick-prev::before {
-  color: blue;
+.slick-carousel-horizontal {
+  /* max-width: 100%; */
+  /* width: 800px; */
+  margin: auto;
+  max-width: 100%;
+  height: auto;
 }
