@@ -2218,6 +2218,7 @@ a.list-group-item.active > .badge,
   margin: auto;
   max-width: 60%;
   height: auto;
+  touch-action: auto;
 }
 
 .slick-carousel-horizontal {
@@ -2226,4 +2227,5 @@ a.list-group-item.active > .badge,
   margin: auto;
   max-width: 100%;
   height: auto;
+  touch-action: auto;
 }
