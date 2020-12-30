@@ -117,8 +117,8 @@
       </div>
     </div>
     <div class="col-lg-4">
-      <div class="content-column-content">
-        <img src="/img/michelle_about.png" height=1000px>
+      <div class="image-column-content">
+        <img src="/img/michelle_about.png">
       </div>
     </div>
   </div>
@@ -184,6 +184,28 @@
     content: '\f105';
     margin: 0 5px 0 -15px;
     color: #cfc0cf;
+  }
+  .image-column-content {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+  }
+  @media (min-width: 1200px) {
+    .image-column-content {
+      padding-left: 0px;
+      padding-right: 40px;
+    }
+  }
+  .col-lg-4 {
+    padding-left: 0px;
+  }
+  .img-responsive {
+    max-width: 70%;
+  }
+  @media (max-width: 1200px) {
+    .img-responsive {
+      max-width: 45%;
+    }
   }
 </style>
 
