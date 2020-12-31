@@ -348,9 +348,10 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .sidebar-heading {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
+  font-weight: bolder;
   /* font-weight: bolder; */
-  font-size: 22px;
+  font-size: 25px;
   text-transform: uppercase;
   letter-spacing: 0.1em;
   line-height: 1.7;
@@ -369,6 +370,7 @@ SIDEBAR + RIGHT COLUMN
   text-decoration: none;
 }
 .sidebar-p {
+  font-family: 'Gaegu', cursive;
   color: #5f5f5f;
   font-size: 20px;
   margin-bottom: 20px;
@@ -429,22 +431,26 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .content-column-content h1 {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
+  font-weight: 700;
   font-size: 60px;
   color: #000000;
 }
 .content-column-content h2 {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
+  font-weight: 700;
   font-size: 50px;
   color: #000000;
 }
 .content-column-content h3 {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
+  font-weight: 700;
   font-size: 40px;
   color: #000000;
 }
 .content-column-content h4 {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
+  font-weight: 700;
   font-size: 30px;
   color: #000000;
 }
@@ -453,7 +459,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column-content p,
 .content-column-content li {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
   color: #5f5f5f;
   font-size: 18px;
 }
@@ -478,7 +484,8 @@ SIDEBAR + RIGHT COLUMN
   clear: both;
 }
 .small-navbar-heading {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
+  font-weight: 700;
   float: right;
   padding-top: 5px;
   font-size: 25px;
@@ -892,7 +899,8 @@ a:active {
   /* line-height: 1.5; */
   /* font-weight: 700; */
   /* letter-spacing: 0.1em; */
-  font-family: 'Gaegu', cursive;; 
+  font-family: 'Gaegu', cursive; 
+  font-weight: 700;
   text-transform: uppercase;
 }
 
@@ -1662,13 +1670,13 @@ STYLE SWITCHER FOR DEMO
 /* scaffolding */
 /* top level color webpage color */
 /* @font-face {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
   src: url('../fonts/gaegu-bold.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 } */
 /* @font-face {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
   src: url('../fonts/gaegu-bold-webfont.woff2') format('woff2'),
        url('../fonts/gaegu-bold-webfont.woff') format('woff'),
        url('../fonts/gaegu-bold.ttf') format('ttf');
@@ -1676,13 +1684,13 @@ STYLE SWITCHER FOR DEMO
   font-style: normal;
 } */
 /* @font-face {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
   src: url('../fonts/gaegu-regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 } */
 /* @font-face {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
   src: url('../fonts/gaegu-regular-webfont.woff2') format('woff2'),
        url('../fonts/gaegu-regular-webfont.woff') format('woff'),
        url('../fonts/gaegu-regular.ttf') format('ttf');
@@ -1690,7 +1698,7 @@ STYLE SWITCHER FOR DEMO
   font-style: normal;
 } */
 body {
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
@@ -1767,7 +1775,7 @@ hr {
 /* buttons  */
 .btn {
   /* font-weight: 400; */
-  font-family: 'Gaegu', cursive;;
+  font-family: 'Gaegu', cursive;
   padding: 0;
   border: 0;
   margin: 0;
