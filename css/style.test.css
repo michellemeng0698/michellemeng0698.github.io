@@ -1664,7 +1664,8 @@ STYLE SWITCHER FOR DEMO
 @font-face {
   font-family: 'gaegubold';
   src: url('../fonts/gaegu-bold-webfont.woff2') format('woff2'),
-       url('../fonts/gaegu-bold-webfont.woff') format('woff');
+       url('../fonts/gaegu-bold-webfont.woff') format('woff'),
+       url('../fonts/gaegu-bold.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
 
@@ -1672,7 +1673,8 @@ STYLE SWITCHER FOR DEMO
 @font-face {
   font-family: 'gaeguregular';
   src: url('../fonts/gaegu-regular-webfont.woff2') format('woff2'),
-       url('../fonts/gaegu-regular-webfont.woff') format('woff');
+       url('../fonts/gaegu-regular-webfont.woff') format('woff'),
+       url('../fonts/gaegu-regular.ttf') format('ttf');
   /* font-weight: normal; */
   font-style: normal;
 }
