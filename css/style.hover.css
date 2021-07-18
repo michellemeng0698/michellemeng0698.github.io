@@ -348,7 +348,7 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .sidebar-heading {
-  font-family: 'Gaegu', cursive;
+  font-family: 'Quicksand', sans-serif;
   font-weight: bolder;
   /* font-weight: bolder; */
   font-size: 25px;
@@ -370,12 +370,13 @@ SIDEBAR + RIGHT COLUMN
   text-decoration: none;
 }
 .sidebar-p {
-  font-family: 'Gaegu', cursive;
+  font-family: 'Raleway', sans-serif;
   color: #5f5f5f;
-  font-size: 20px;
+  font-size: 18px;
   margin-bottom: 20px;
 }
 .sidebar-menu {
+  font-family: 'Quicksand', sans-serif;
   list-style-type: none;
   padding-left: 0;
   font-size: 20px;
@@ -431,26 +432,26 @@ SIDEBAR + RIGHT COLUMN
   }
 }
 .content-column-content h1 {
-  font-family: 'Gaegu', cursive;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 700;
   font-size: 60px;
   color: #000000;
-}
+} 
 .content-column-content h2 {
-  font-family: 'Gaegu', cursive;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 700;
   font-size: 50px;
   color: #000000;
 }
 .content-column-content h3 {
-  font-family: 'Gaegu', cursive;
+  font-family: 'Quicksand', sans-serif;
   font-weight: 700;
   font-size: 40px;
   color: #000000;
 }
 .content-column-content h4 {
-  font-family: 'Gaegu', cursive;
-  font-weight: 700;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
   font-size: 30px;
   color: #000000;
 }
@@ -459,7 +460,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column-content p,
 .content-column-content li {
-  font-family: 'Gaegu', cursive;
+  font-family: 'Raleway', sans-serif;
   color: #5f5f5f;
   font-size: 18px;
 }
@@ -484,7 +485,7 @@ SIDEBAR + RIGHT COLUMN
   clear: both;
 }
 .small-navbar-heading {
-  font-family: 'Gaegu', cursive;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   float: right;
   padding-top: 5px;
