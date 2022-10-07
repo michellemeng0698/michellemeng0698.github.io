@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mimeng.art/portfolio/spotify/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+    <loc>https://mimeng.art/portfolio/pc/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/portfolio/rbc/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/portfolio/walkers/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mimeng.art/bites/dogcar/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/portfolio/bumble/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
@@ -23,17 +38,17 @@
   </url>
   
   <url>
-    <loc>https://mimeng.art/portfolio/bumble/</loc>
+    <loc>https://mimeng.art/portfolio/lcc/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/portfolio/spotify/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://mimeng.art/portfolio/wufber/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mimeng.art/portfolio/lcc/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
@@ -68,12 +83,17 @@
   </url>
   
   <url>
-    <loc>https://mimeng.art/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <loc>https://mimeng.art/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mimeng.art/</loc>
+    <loc>https://mimeng.art/portfolio/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
@@ -84,11 +104,6 @@
   
   <url>
     <loc>https://mimeng.art/bites/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mimeng.art/portfolio/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
