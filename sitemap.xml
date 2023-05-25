@@ -3,38 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mimeng.art/portfolio/pc/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mimeng.art/portfolio/rbc/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mimeng.art/portfolio/walkers/</loc>
-    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mimeng.art/bites/dogcar/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mimeng.art/portfolio/bumble/</loc>
+    <loc>https://mimeng.art/bites/zodiac/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://mimeng.art/bites/magik/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <loc>https://mimeng.art/portfolio/pc/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mimeng.art/bites/wendys/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://mimeng.art/bites/album/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/bites/books/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
@@ -48,8 +38,23 @@
   </url>
   
   <url>
-    <loc>https://mimeng.art/portfolio/wufber/</loc>
+    <loc>https://mimeng.art/bites/wendys/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/portfolio/bumble/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/bites/magik/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/portfolio/walkers/</loc>
+    <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,7 +63,12 @@
   </url>
   
   <url>
-    <loc>https://mimeng.art/portfolio/touchland/</loc>
+    <loc>https://mimeng.art/bites/dogcar/</loc>
+    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/portfolio/wufber/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
@@ -68,13 +78,18 @@
   </url>
   
   <url>
-    <loc>https://mimeng.art/bites/soycycle/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+    <loc>https://mimeng.art/bites/disney/</loc>
+    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://mimeng.art/bites/album/</loc>
+    <loc>https://mimeng.art/portfolio/touchland/</loc>
     <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mimeng.art/bites/soycycle/</loc>
+    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
   </url>
   
   <url>
